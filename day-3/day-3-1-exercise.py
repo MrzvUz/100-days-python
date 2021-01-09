@@ -33,7 +33,7 @@ else:
     print("This is an odd number.")
 
 
-# Conditional statement nest inside with another conditional statement: https://repl.it/@appbrewery/day-3-end#main.py
+# Conditional statement nested inside with another conditional statement: https://repl.it/@appbrewery/day-3-end#main.py
 
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm? "))
